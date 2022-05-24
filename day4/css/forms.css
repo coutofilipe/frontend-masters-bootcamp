@@ -6,13 +6,13 @@ html {
 }
 body {
 	font-family: 'Architects Daughter', cursive;
-	font-weight: 
 	margin: 0;
 	padding: 0;
 	background-image: url(../img/galaxy.jpg);
 }
 h1, h3, legend{
-	font-size: larger;
+	font-size: 2rem;
+	font-weight: bold;
 }
 .wrapper {
 	width: 80%;
