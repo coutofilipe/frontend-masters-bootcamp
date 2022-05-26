@@ -1,0 +1,91 @@
+/*
+The first declaration sets the <html> tag to the border box model. However, this property is not inherited. 
+
+The second declaration says for everything in the universe (*) and everything before it (*:before) and everything after it (*:after), inherit the border box model declaration. 
+
+You can place this at the top of every CSS document you write going forward!*/
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+/* this is a selector of the body tag in the html file 
+font-family => property
+Arial, Helvetica, sans-serif => value*/
+body {
+    font-family: monospace, Helvetica, sans-serif;
+    color: #161f26;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+nav li {
+    width: 8rem;
+    margin-bottom: 0.7rem;
+    padding: 1.3rem;
+    
+}
+footer {
+    text-align: start;
+    font-size: 0.8rem;
+}
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+footer li {
+    border: solid black;
+    width: 5rem;
+
+}
+
+/*Univisited link*/
+a:link {
+    color: #161f26;
+}
+a:visited {
+    color: #161f26;
+}
+a:focus {
+    color: #161f26;
+}
+a:hover {
+    font-weight: bolder;
+    background-color: azure;
+}
+/* This a class. The name must start with "." we can use to apply style to only certain HTML tags, by calling the class from tha file. Usually exceptios to a CSS rule like the ones above. */
+.bigbold {
+    font-weight: bold;
+    font-size: 1.rem;
+}
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+.leftheader, h1, img {
+    flex-basis: 40%;
+    text-align: center;
+    border: 3px solid black;
+    
+   
+}
+.rightheader {
+    flex-basis: 60%;
+    border: 3px solid red;
+}
