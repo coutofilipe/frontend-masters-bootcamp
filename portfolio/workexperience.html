@@ -4,35 +4,42 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Filipe Couto - IT Student</title>
-    <link href= "/css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Don't forget to use this:https://blog.bitsrc.io/the-complete-beginners-guide-to-sass-ee8d5278f4c
+    and this: https://www.sliderrevolution.com/resources/css-button-hover-effects/  -->
 </head>
 
 <body>
-    <img src="/img/n1.png" alt="Le me." title="My profile picture">
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="workexperience.html">Work Experience</a></li>
-            <li><a href="projects.html">Projects</a></li>
-        </ul>
-    </nav>
-    <h1>Filipe Couto</h1>
+    <div class="wrapper">
+        <!--Header is the parent ==> Flex container-->
+        <header>
+            <!--the is the chil of header ==> Flex item-->
+            <div class="leftheader">
+                <h1>Filipe Couto</h1>
+                <img src="/img/n1.png" alt="My profile picture" title="My profile picture">
+            </div>
+            <div class="rightheader">
+                <nav>
+                    <ul>
+                        <li><a href="index.html" class="mywebpagelinks">Home</a></li>
+                        <li><a href="workexperience.html">Work Experience</a></li>
+                        <li><a href="projects.html">Projects</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <footer>
+            <p>Legal disclamer</p>
+            <ul>
+                <li>github icon</li>
+                <li>linkdin icon</li>
+            </ul>
 
-    <h2>About me</h2>
+        </footer>
 
-    <p>I am a 3rd year student of IT engeneering at <a
-            href="https://www.ipp.pt/education/schools/isep?set_language=en">ISEP Porto School of Engeneering</a></p>
-
-    <blockquote>
-        <article>
-            I have recently started 
-        </article>
-    </blockquote>
-
+    </div>
 </body>
-
-<script></script>
 
 </html>
