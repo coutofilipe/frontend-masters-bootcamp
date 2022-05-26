@@ -45,9 +45,7 @@ footer ul {
     justify-content: flex-start;
 }
 footer li {
-    border: solid black;
     width: 5rem;
-
 }
 
 /*Univisited link*/
@@ -81,11 +79,7 @@ header {
 .leftheader, h1, img {
     flex-basis: 40%;
     text-align: center;
-    border: 3px solid black;
-    
-   
 }
 .rightheader {
     flex-basis: 60%;
-    border: 3px solid red;
 }
