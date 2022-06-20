@@ -65,7 +65,7 @@ a:hover {
 /* This a class. The name must start with "." we can use to apply style to only certain HTML tags, by calling the class from tha file. Usually exceptios to a CSS rule like the ones above. */
 .bigbold {
     font-weight: bold;
-    font-size: 1.rem;
+    font-size: 1rem;
 }
 .wrapper {
     width: 50%;
