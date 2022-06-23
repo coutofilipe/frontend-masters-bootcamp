@@ -1,0 +1,896 @@
+A Baixa Limia;Aparelho Circulatório;Termas do Gerês  ;Termas de Caldelas  ;1;1.3
+A Baixa Limia;Aparelho Digestivo;Termas do Gerês  ;Termas de Chaves;1;1.2
+A Baixa Limia;Aparelho Respiratório;Termas de Chaves;Termas da Moimenta;1.2;1.4
+A Baixa Limia;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;1.3;1.4
+A Baixa Limia;Doenças Ginecológicas;Termas de Caldelas  ;---;1.3;---
+A Baixa Limia;Metabólico-endócrinas;Termas do Gerês  ;Termas de Pedras Salgadas;1;1.3
+A Baixa Limia;Pele;Termas de Vidago;Termas de Carvalhelhos;1.2;1.4
+A Baixa Limia;Reumatológicas e Musculo-esqueléticas;Termas do Gerês  ;Termas de Chaves;1;1.2
+A Limia;Aparelho Circulatório;Termas de Carvalhelhos;Termas do Gerês  ;1;1.5
+A Limia;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;0.8;0.8
+A Limia;Aparelho Respiratório;Termas de Chaves;Termas de Monção;0.8;1.3
+A Limia;Doenças do Sistema Nervoso;Termas de Vidago;---;0.8;---
+A Limia;Doenças Ginecológicas;---;---;---;---
+A Limia;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas do Gerês  ;0.9;1.5
+A Limia;Pele;Termas de Vidago;Termas de Carvalhelhos;0.6;0.9
+A Limia;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas de Monção;0.8;1.3
+A Paradanta;Aparelho Circulatório;Termas de Caldelas  ;---;1.5;---
+A Paradanta;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;1.4;1.4
+A Paradanta;Aparelho Respiratório;Termas de Monção;Termas de Chaves;0.6;1.4
+A Paradanta;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;1.4;1.5
+A Paradanta;Doenças Ginecológicas;Termas de Caldelas  ;---;1.5;---
+A Paradanta;Metabólico-endócrinas;Termas de Caldelas  ;Termas de Pedras Salgadas;1.5;1.5
+A Paradanta;Pele;Termas de Caldelas;Caldas das Taipas;1.5;1.5
+A Paradanta;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas de Chaves;0.6;1.4
+Aguiar da Beira;Aparelho Circulatório;---;---;---;---
+Aguiar da Beira;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.6;1.7
+Aguiar da Beira;Aparelho Respiratório;Caldas de Aregos;Caldas de Carlão;1.5;1.5
+Aguiar da Beira;Doenças do Sistema Nervoso;Termas de Vidago;---;1.7;---
+Aguiar da Beira;Doenças Ginecológicas;---;---;---;---
+Aguiar da Beira;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.6;---
+Aguiar da Beira;Pele;Caldas de Carlão;Termas de Vidago;1.5;1.7
+Aguiar da Beira;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas de Carlão;1.5;1.5
+Albergaria-a-Velha;Aparelho Circulatório;Termas de Caldelas;---;1.6;---
+Albergaria-a-Velha;Aparelho Digestivo;Termas de Caldelas;---;1.6;---
+Albergaria-a-Velha;Aparelho Respiratório;Termas de São Jorge;Termas da Torre;0.6;1.1
+Albergaria-a-Velha;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.6;---
+Albergaria-a-Velha;Doenças Ginecológicas;Termas de Caldelas;---;1.6;---
+Albergaria-a-Velha;Metabólico-endócrinas;Termas de Caldelas;---;1.6;---
+Albergaria-a-Velha;Pele;Termas de São Jorge;Caldas da Saúde;0.6;1.1
+Albergaria-a-Velha;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas da Torre;0.6;1.1
+Alfândega da Fé;Aparelho Circulatório;---;---;---;---
+Alfândega da Fé;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Chaves;1.3;1.4
+Alfândega da Fé;Aparelho Respiratório;Caldas de Carlão;Termas da Terronha;0.8;1.1
+Alfândega da Fé;Doenças do Sistema Nervoso;Termas de Vidago;---;1.5;---
+Alfândega da Fé;Doenças Ginecológicas;---;---;---;---
+Alfândega da Fé;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.3;---
+Alfândega da Fé;Pele;Caldas de Carlão;Termas de Vidago;0.8;1.4
+Alfândega da Fé;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas da Terronha;0.8;1.1
+Alijó;Aparelho Circulatório;Termas de Carvalhelhos;---;1.3;---
+Alijó;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.8;0.9
+Alijó;Aparelho Respiratório;Caldas de Carlão;Termas de Pedras Salgadas;0.4;0.8
+Alijó;Doenças do Sistema Nervoso;Termas de Vidago;---;0.9;---
+Alijó;Doenças Ginecológicas;---;---;---;---
+Alijó;Metabólico-endócrinas;Termas de Pedras Salgadas;---;0.8;---
+Alijó;Pele;Caldas de Carlão;Termas de Vidago;0.4;0.9
+Alijó;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas de Pedras Salgadas;0.4;0.8
+Aliste;Aparelho Circulatório;---;---;---;---
+Aliste;Aparelho Digestivo;---;---;---;---
+Aliste;Aparelho Respiratório;Termas da Terronha;Caldas de Carlão;0.7;1.5
+Aliste;Doenças do Sistema Nervoso;---;---;---;---
+Aliste;Doenças Ginecológicas;---;---;---;---
+Aliste;Metabólico-endócrinas;---;---;---;---
+Aliste;Pele;Caldas de Carlão;---;1.5;---
+Aliste;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;Caldas de Carlão;0.7;1.5
+Amarante;Aparelho Circulatório;Termas de Caldelas;Termas de Carvalhelhos;1.1;1.4
+Amarante;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.9;1
+Amarante;Aparelho Respiratório;Caldas das Murtas;Caldas de Vizela;0;0.5
+Amarante;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;1;1.1
+Amarante;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+Amarante;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.9;1.1
+Amarante;Pele;Caldas de Vizela;Caldas das Taipas;0.5;0.7
+Amarante;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Caldas de Vizela;0;0.5
+Amares;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;0.2;0.7
+Amares;Aparelho Digestivo;Termas de Caldelas  ;Termas do Gerês  ;0.2;0.7
+Amares;Aparelho Respiratório;Termas da Moimenta;Caldas das Taipas;0.4;0.6
+Amares;Doenças do Sistema Nervoso;Termas de Caldelas  ;Termas de Vidago;0.2;1.4
+Amares;Doenças Ginecológicas;Termas de Caldelas  ;---;0.2;---
+Amares;Metabólico-endócrinas;Termas de Caldelas  ;Termas do Gerês  ;0.2;0.7
+Amares;Pele;Termas de Caldelas  ;Caldas das Taipas;0.2;0.6
+Amares;Reumatológicas e Musculo-esqueléticas;Termas de Caldelas  ;Termas da Moimenta;0.2;0.4
+Arcos de Valdevez;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;0.6;1.4
+Arcos de Valdevez;Aparelho Digestivo;Termas de Caldelas  ;Termas do Gerês  ;0.6;1.4
+Arcos de Valdevez;Aparelho Respiratório;Termas de Monção;Termas da Moimenta;0.7;0.7
+Arcos de Valdevez;Doenças do Sistema Nervoso;Termas de Caldelas  ;Termas de Vidago;0.6;1.6
+Arcos de Valdevez;Doenças Ginecológicas;Termas de Caldelas  ;---;0.6;---
+Arcos de Valdevez;Metabólico-endócrinas;Termas de Caldelas  ;Termas do Gerês  ;0.6;1.4
+Arcos de Valdevez;Pele;Termas de Caldelas  ;Caldas das Taipas;0.6;0.9
+Arcos de Valdevez;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas da Moimenta;0.7;0.7
+Armamar;Aparelho Circulatório;Termas de Carvalhelhos;---;1.4;---
+Armamar;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.9;0.9
+Armamar;Aparelho Respiratório;Caldas das Murtas;Caldas de Aregos;0.9;1
+Armamar;Doenças do Sistema Nervoso;Termas de Vidago;---;0.9;---
+Armamar;Doenças Ginecológicas;---;---;---;---
+Armamar;Metabólico-endócrinas;Termas de Pedras Salgadas;---;0.9;---
+Armamar;Pele;Termas de Vidago;Caldas de Carlão;0.9;1
+Armamar;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Caldas de Aregos;0.9;1
+Arouca;Aparelho Circulatório;---;---;---;---
+Arouca;Aparelho Digestivo;---;---;---;---
+Arouca;Aparelho Respiratório;Termas de São Jorge;Termas da Torre;0.6;0.6
+Arouca;Doenças do Sistema Nervoso;---;---;---;---
+Arouca;Doenças Ginecológicas;---;---;---;---
+Arouca;Metabólico-endócrinas;---;---;---;---
+Arouca;Pele;Termas de São Jorge;Caldas da Saúde;0.6;1.2
+Arouca;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas da Torre;0.6;0.6
+Baião;Aparelho Circulatório;Termas de Caldelas  ;Termas de Carvalhelhos;1.3;1.7
+Baião;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Caldelas  ;1.3;1.3
+Baião;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.6;0.6
+Baião;Doenças do Sistema Nervoso;Termas de Caldelas  ;Termas de Vidago;1.3;1.3
+Baião;Doenças Ginecológicas;Termas de Caldelas  ;---;1.3;---
+Baião;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas  ;1.2;1.3
+Baião;Pele;Caldas de Vizela;Caldas das Taipas;0.7;0.9
+Baião;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.6;0.6
+Barcelos;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.7;1.2
+Barcelos;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;0.7;1.1
+Barcelos;Aparelho Respiratório;Caldas das Taipas;Caldas da Saúde;0.5;0.6
+Barcelos;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.7;1.4
+Barcelos;Doenças Ginecológicas;Termas de Caldelas;---;0.7;---
+Barcelos;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;0.7;1.2
+Barcelos;Pele;Caldas das Taipas;Termas de Caldelas;0.5;0.7
+Barcelos;Reumatológicas e Musculo-esqueléticas;Caldas das Taipas;Termas de Caldelas;0.5;0.7
+Boticas;Aparelho Circulatório;Termas de Carvalhelhos;Termas do Gerês  ;0.2;1.4
+Boticas;Aparelho Digestivo;Termas de Carvalhelhos;Termas de Vidago;0.2;0.4
+Boticas;Aparelho Respiratório;Termas de Vidago;Termas de Chaves;0.4;0.5
+Boticas;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.4;1.7
+Boticas;Doenças Ginecológicas;Termas de Caldelas;---;1.7;---
+Boticas;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas do Gerês  ;0.6;1.4
+Boticas;Pele;Termas de Carvalhelhos;Termas de Vidago;0.2;0.4
+Boticas;Reumatológicas e Musculo-esqueléticas;Termas de Vidago;Termas de Chaves;0.4;0.5
+Braga;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.5;0.9
+Braga;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;0.5;0.8
+Braga;Aparelho Respiratório;Caldas das Taipas;Caldas da Saúde;0.3;0.5
+Braga;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.5;1.1
+Braga;Doenças Ginecológicas;Termas de Caldelas;---;0.5;---
+Braga;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;0.5;0.9
+Braga;Pele;Caldas das Taipas;Termas de Caldelas;0.3;0.5
+Braga;Reumatológicas e Musculo-esqueléticas;Caldas das Taipas;Termas de Caldelas;0.3;0.5
+Bragança;Aparelho Circulatório;---;---;---;---
+Bragança;Aparelho Digestivo;Termas de Chaves;Termas de Pedras Salgadas;1.5;1.5
+Bragança;Aparelho Respiratório;Termas da Terronha;Caldas de Carlão;0.8;1.1
+Bragança;Doenças do Sistema Nervoso;Termas de Vidago;---;1.6;---
+Bragança;Doenças Ginecológicas;---;---;---;---
+Bragança;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.5;---
+Bragança;Pele;Caldas de Carlão;Termas de Vidago;1.1;1.6
+Bragança;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;Caldas de Carlão;0.8;1.1
+Cabeceiras de Basto;Aparelho Circulatório;Termas de Carvalhelhos;Termas do Gerês  ;0.9;1.1
+Cabeceiras de Basto;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.6;0.6
+Cabeceiras de Basto;Aparelho Respiratório;Termas de Pedras Salgadas;Termas de Vidago;0.6;0.6
+Cabeceiras de Basto;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.6;1.1
+Cabeceiras de Basto;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+Cabeceiras de Basto;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas do Gerês  ;0.6;1.1
+Cabeceiras de Basto;Pele;Termas de Vidago;Caldas de Vizela;0.6;0.6
+Cabeceiras de Basto;Reumatológicas e Musculo-esqueléticas;Termas de Pedras Salgadas;Termas de Vidago;0.6;0.6
+Caminha;Aparelho Circulatório;Termas de Caldelas;---;1.2;---
+Caminha;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;1.2;1.7
+Caminha;Aparelho Respiratório;Caldas da Saúde;Caldas das Taipas;1.1;1.1
+Caminha;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.2;---
+Caminha;Doenças Ginecológicas;Termas de Caldelas;---;1.2;---
+Caminha;Metabólico-endócrinas;Termas de Caldelas;---;1.2;---
+Caminha;Pele;Caldas da Saúde;Caldas das Taipas;1.1;1.1
+Caminha;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Caldas das Taipas;1.1;1.1
+Carrazeda de Ansiães;Aparelho Circulatório;Termas de Carvalhelhos;---;1.5;---
+Carrazeda de Ansiães;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1;1.1
+Carrazeda de Ansiães;Aparelho Respiratório;Caldas de Carlão;Caldas das Murtas;0.3;1
+Carrazeda de Ansiães;Doenças do Sistema Nervoso;Termas de Vidago;---;1.1;---
+Carrazeda de Ansiães;Doenças Ginecológicas;---;---;---;---
+Carrazeda de Ansiães;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1;---
+Carrazeda de Ansiães;Pele;Caldas de Carlão;Caldas das Murtas;0.3;1
+Carrazeda de Ansiães;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas de Pedras Salgadas;0.3;1
+Castelo de Paiva;Aparelho Circulatório;Termas de Caldelas;---;1.6;---
+Castelo de Paiva;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.5;1.5
+Castelo de Paiva;Aparelho Respiratório;Termas da Torre;Termas de São Vicente;0.2;0.2
+Castelo de Paiva;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.5;1.6
+Castelo de Paiva;Doenças Ginecológicas;Termas de Caldelas;---;1.6;---
+Castelo de Paiva;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;1.5;1.6
+Castelo de Paiva;Pele;Termas de São Jorge;Caldas de Vizela;0.7;1
+Castelo de Paiva;Reumatológicas e Musculo-esqueléticas;Termas da Torre;Termas de São Vicente;0.2;0.2
+Castro Daire;Aparelho Circulatório;Termas de Carvalhelhos;---;1.5;---
+Castro Daire;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.1;1.1
+Castro Daire;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.7;1
+Castro Daire;Doenças do Sistema Nervoso;Termas de Vidago;---;1.1;---
+Castro Daire;Doenças Ginecológicas;---;---;---;---
+Castro Daire;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.2;---
+Castro Daire;Pele;Termas de Vidago;Caldas de Carlão;1.1;1.1
+Castro Daire;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.7;1
+Celorico de Basto;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;1.2;1.4
+Celorico de Basto;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.9;0.9
+Celorico de Basto;Aparelho Respiratório;Caldas das Murtas;Caldas de Vizela;0.4;0.8
+Celorico de Basto;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.9;1.3
+Celorico de Basto;Doenças Ginecológicas;Termas de Caldelas;---;1.4;---
+Celorico de Basto;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.8;1.4
+Celorico de Basto;Pele;Caldas de Vizela;Termas de Vidago;0.8;0.9
+Celorico de Basto;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Caldas de Vizela;0.4;0.8
+Chaves;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;0.6;1.7
+Chaves;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;0;0.3
+Chaves;Aparelho Respiratório;Termas de Chaves;Termas de Vidago;0;0.3
+Chaves;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.3;1.6
+Chaves;Doenças Ginecológicas;Termas de Caldelas;---;1.7;---
+Chaves;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.5;1.7
+Chaves;Pele;Termas de Vidago;Termas de Carvalhelhos;0.3;0.6
+Chaves;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas de Vidago;0;0.3
+Cinfães;Aparelho Circulatório;Termas de Caldelas;---;1.7;---
+Cinfães;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Caldelas;1.5;1.6
+Cinfães;Aparelho Respiratório;Caldas de Aregos;Termas da Torre;0.4;0.6
+Cinfães;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.6;1.6
+Cinfães;Doenças Ginecológicas;Termas de Caldelas;---;1.7;---
+Cinfães;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;1.6;1.7
+Cinfães;Pele;Caldas de Vizela;Caldas das Taipas;1;1.2
+Cinfães;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Termas da Torre;0.4;0.6
+Espinho;Aparelho Circulatório;Termas de Caldelas;---;1.4;---
+Espinho;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.2;1.6
+Espinho;Aparelho Respiratório;Termas de São Jorge;Caldas da Saúde;0.5;0.7
+Espinho;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.2;1.6
+Espinho;Doenças Ginecológicas;Termas de Caldelas;---;1.4;---
+Espinho;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.4;1.6
+Espinho;Pele;Termas de São Jorge;Caldas da Saúde;0.5;0.7
+Espinho;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Caldas da Saúde;0.5;0.7
+Esposende;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.3
+Esposende;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;0.8;1.3
+Esposende;Aparelho Respiratório;Caldas da Saúde;Caldas das Taipas;0.6;0.7
+Esposende;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.8;1.4
+Esposende;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Esposende;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;0.9;1.3
+Esposende;Pele;Caldas da Saúde;Caldas das Taipas;0.6;0.7
+Esposende;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Caldas das Taipas;0.6;0.7
+Estarreja;Aparelho Circulatório;Termas de Caldelas;---;1.6;---
+Estarreja;Aparelho Digestivo;Termas de Caldelas;---;1.4;---
+Estarreja;Aparelho Respiratório;Termas de São Jorge;Caldas da Saúde;0.5;1
+Estarreja;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.4;---
+Estarreja;Doenças Ginecológicas;Termas de Caldelas;---;1.6;---
+Estarreja;Metabólico-endócrinas;Termas de Caldelas;---;1.6;---
+Estarreja;Pele;Termas de São Jorge;Caldas da Saúde;0.5;1
+Estarreja;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Caldas da Saúde;0.5;1
+Fafe;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.1
+Fafe;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Caldelas;0.8;0.8
+Fafe;Aparelho Respiratório;Caldas das Taipas;Caldas de Vizela;0.4;0.5
+Fafe;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.8;0.8
+Fafe;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Fafe;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.8;0.9
+Fafe;Pele;Caldas das Taipas;Caldas de Vizela;0.4;0.5
+Fafe;Reumatológicas e Musculo-esqueléticas;Caldas das Taipas;Caldas de Vizela;0.4;0.5
+Felgueiras;Aparelho Circulatório;Termas de Caldelas;Termas de Carvalhelhos;0.9;1.4
+Felgueiras;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1
+Felgueiras;Aparelho Respiratório;Caldas de Vizela;Caldas das Murtas;0.4;0.5
+Felgueiras;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.9;1
+Felgueiras;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Felgueiras;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1
+Felgueiras;Pele;Caldas de Vizela;Caldas das Taipas;0.4;0.6
+Felgueiras;Reumatológicas e Musculo-esqueléticas;Caldas de Vizela;Caldas das Murtas;0.4;0.5
+Figueira de Castelo Rodrigo;Aparelho Circulatório;---;---;---;---
+Figueira de Castelo Rodrigo;Aparelho Digestivo;---;---;---;---
+Figueira de Castelo Rodrigo;Aparelho Respiratório;Caldas de Carlão;---;1.6;---
+Figueira de Castelo Rodrigo;Doenças do Sistema Nervoso;---;---;---;---
+Figueira de Castelo Rodrigo;Doenças Ginecológicas;---;---;---;---
+Figueira de Castelo Rodrigo;Metabólico-endócrinas;---;---;---;---
+Figueira de Castelo Rodrigo;Pele;Caldas de Carlão;---;1.6;---
+Figueira de Castelo Rodrigo;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;---;1.6;---
+Freixo de Espada à Cinta;Aparelho Circulatório;---;---;---;---
+Freixo de Espada à Cinta;Aparelho Digestivo;---;---;---;---
+Freixo de Espada à Cinta;Aparelho Respiratório;Termas da Terronha;Caldas de Carlão;1.2;1.3
+Freixo de Espada à Cinta;Doenças do Sistema Nervoso;---;---;---;---
+Freixo de Espada à Cinta;Doenças Ginecológicas;---;---;---;---
+Freixo de Espada à Cinta;Metabólico-endócrinas;---;---;---;---
+Freixo de Espada à Cinta;Pele;Caldas de Carlão;---;1.3;---
+Freixo de Espada à Cinta;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;Caldas de Carlão;1.2;1.3
+Gondomar;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1.1;1.7
+Gondomar;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.1;1.4
+Gondomar;Aparelho Respiratório;Termas de São Jorge;Termas de São Vicente;0.4;0.6
+Gondomar;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.1;1.4
+Gondomar;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+Gondomar;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.1;1.4
+Gondomar;Pele;Termas de São Jorge;Caldas da Saúde;0.4;0.5
+Gondomar;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas de São Vicente;0.4;0.6
+Guimarães;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.7;1.2
+Guimarães;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.7;1
+Guimarães;Aparelho Respiratório;Caldas de Vizela;Caldas das Taipas;0.2;0.3
+Guimarães;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.7;1
+Guimarães;Doenças Ginecológicas;Termas de Caldelas;---;0.7;---
+Guimarães;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.7;0.9
+Guimarães;Pele;Caldas de Vizela;Caldas das Taipas;0.2;0.3
+Guimarães;Reumatológicas e Musculo-esqueléticas;Caldas de Vizela;Caldas das Taipas;0.2;0.3
+Lamego;Aparelho Circulatório;Termas de Carvalhelhos;---;1.4;---
+Lamego;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.9;0.9
+Lamego;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.7;0.9
+Lamego;Doenças do Sistema Nervoso;Termas de Vidago;---;0.9;---
+Lamego;Doenças Ginecológicas;---;---;---;---
+Lamego;Metabólico-endócrinas;Termas de Pedras Salgadas;---;0.9;---
+Lamego;Pele;Termas de Vidago;Caldas de Carlão;0.9;1
+Lamego;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.7;0.9
+Lousada;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.4
+Lousada;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1
+Lousada;Aparelho Respiratório;Caldas das Murtas;Caldas de Vizela;0.4;0.4
+Lousada;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.9;1
+Lousada;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Lousada;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1
+Lousada;Pele;Caldas de Vizela;Caldas das Taipas;0.4;0.5
+Lousada;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Caldas de Vizela;0.4;0.4
+Macedo de Cavaleiros;Aparelho Circulatório;Termas de Carvalhelhos;---;1.7;---
+Macedo de Cavaleiros;Aparelho Digestivo;Termas de Chaves;Termas de Pedras Salgadas;1.1;1.2
+Macedo de Cavaleiros;Aparelho Respiratório;Caldas de Carlão;Termas da Terronha;0.8;1
+Macedo de Cavaleiros;Doenças do Sistema Nervoso;Termas de Vidago;---;1.3;---
+Macedo de Cavaleiros;Doenças Ginecológicas;---;---;---;---
+Macedo de Cavaleiros;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.2;---
+Macedo de Cavaleiros;Pele;Caldas de Carlão;Termas de Vidago;0.8;1.3
+Macedo de Cavaleiros;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas da Terronha;0.8;1
+Maia;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.4
+Maia;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1.3
+Maia;Aparelho Respiratório;Caldas da Saúde;Termas de São Jorge;0.4;0.6
+Maia;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.9;1.3
+Maia;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Maia;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1.3
+Maia;Pele;Caldas da Saúde;Termas de São Jorge;0.4;0.6
+Maia;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Termas de São Jorge;0.4;0.6
+Marco de Canavezes;Aparelho Circulatório;Termas de Caldelas;Termas de Carvalhelhos;1.1;1.5
+Marco de Canavezes;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.1;1.2
+Marco de Canavezes;Aparelho Respiratório;Caldas das Murtas;Termas de São Vicente;0.4;0.6
+Marco de Canavezes;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.1;1.2
+Marco de Canavezes;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+Marco de Canavezes;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.1;1.1
+Marco de Canavezes;Pele;Caldas de Vizela;Caldas das Taipas;0.5;0.7
+Marco de Canavezes;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Termas de São Vicente;0.4;0.6
+Matosinhos;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1;1.5
+Matosinhos;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1;1.4
+Matosinhos;Aparelho Respiratório;Caldas da Saúde;Termas de São Vicente;0.5;0.8
+Matosinhos;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1;1.4
+Matosinhos;Doenças Ginecológicas;Termas de Caldelas;---;1;---
+Matosinhos;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1;1.4
+Matosinhos;Pele;Caldas da Saúde;Termas de São Jorge;0.5;0.7
+Matosinhos;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Termas de São Vicente;0.5;0.8
+Meda;Aparelho Circulatório;---;---;---;---
+Meda;Aparelho Digestivo;---;---;---;---
+Meda;Aparelho Respiratório;Caldas de Carlão;---;1.3;---
+Meda;Doenças do Sistema Nervoso;---;---;---;---
+Meda;Doenças Ginecológicas;---;---;---;---
+Meda;Metabólico-endócrinas;---;---;---;---
+Meda;Pele;Caldas de Carlão;---;1.3;---
+Meda;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;---;1.3;---
+Melgaço;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1.5;1.7
+Melgaço;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;1.5;1.7
+Melgaço;Aparelho Respiratório;Termas de Monção;Caldas das Taipas;0.3;1.6
+Melgaço;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.5;---
+Melgaço;Doenças Ginecológicas;Termas de Caldelas;---;1.5;---
+Melgaço;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;1.5;1.7
+Melgaço;Pele;Termas de Caldelas;Caldas das Taipas;1.5;1.5
+Melgaço;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas de Caldelas;0.3;1.5
+Mesão Frio;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;1.5;1.5
+Mesão Frio;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1;1.1
+Mesão Frio;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.4;0.5
+Mesão Frio;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;1.1;1.5
+Mesão Frio;Doenças Ginecológicas;Termas de Caldelas;---;1.5;---
+Mesão Frio;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;1;1.5
+Mesão Frio;Pele;Caldas de Vizela;Caldas de Carlão;0.9;1.1
+Mesão Frio;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.4;0.5
+Miranda do Douro;Aparelho Circulatório;---;---;---;---
+Miranda do Douro;Aparelho Digestivo;---;---;---;---
+Miranda do Douro;Aparelho Respiratório;Termas da Terronha;Caldas de Carlão;0.4;1.5
+Miranda do Douro;Doenças do Sistema Nervoso;---;---;---;---
+Miranda do Douro;Doenças Ginecológicas;---;---;---;---
+Miranda do Douro;Metabólico-endócrinas;---;---;---;---
+Miranda do Douro;Pele;Caldas de Carlão;---;1.5;---
+Miranda do Douro;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;Caldas de Carlão;0.4;1.5
+Mirandela;Aparelho Circulatório;Termas de Carvalhelhos;---;1.4;---
+Mirandela;Aparelho Digestivo;Termas de Chaves;Termas de Pedras Salgadas;0.9;1
+Mirandela;Aparelho Respiratório;Caldas de Carlão;Termas de Chaves;0.6;0.9
+Mirandela;Doenças do Sistema Nervoso;Termas de Vidago;---;1.1;---
+Mirandela;Doenças Ginecológicas;---;---;---;---
+Mirandela;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1;---
+Mirandela;Pele;Caldas de Carlão;Termas de Vidago;0.6;1.1
+Mirandela;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas de Chaves;0.6;0.9
+Mogadouro;Aparelho Circulatório;---;---;---;---
+Mogadouro;Aparelho Digestivo;Termas de Pedras Salgadas;---;1.7;---
+Mogadouro;Aparelho Respiratório;Termas da Terronha;Caldas de Carlão;0.6;1
+Mogadouro;Doenças do Sistema Nervoso;---;---;---;---
+Mogadouro;Doenças Ginecológicas;---;---;---;---
+Mogadouro;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.7;---
+Mogadouro;Pele;Caldas de Carlão;---;1;---
+Mogadouro;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;Caldas de Carlão;0.6;1
+Moimenta da Beira;Aparelho Circulatório;---;---;---;---
+Moimenta da Beira;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.3;1.4
+Moimenta da Beira;Aparelho Respiratório;Caldas de Aregos;Termas de Pedras Salgadas;1.2;1.3
+Moimenta da Beira;Doenças do Sistema Nervoso;Termas de Vidago;---;1.4;---
+Moimenta da Beira;Doenças Ginecológicas;---;---;---;---
+Moimenta da Beira;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.3;---
+Moimenta da Beira;Pele;Termas de Vidago;Caldas de Carlão;1.3;1.4
+Moimenta da Beira;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Termas de Pedras Salgadas;1.2;1.3
+Monção;Aparelho Circulatório;Termas de Caldelas;---;1.2;---
+Monção;Aparelho Digestivo;Termas de Caldelas;---;1.2;---
+Monção;Aparelho Respiratório;Termas de Monção;Termas da Moimenta;0;1.3
+Monção;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.2;---
+Monção;Doenças Ginecológicas;Termas de Caldelas;---;1.2;---
+Monção;Metabólico-endócrinas;Termas de Caldelas;---;1.2;---
+Monção;Pele;Termas de Caldelas;Caldas das Taipas;1.2;1.2
+Monção;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas de Caldelas;0;1.2
+Mondim de Basto;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;1.2;1.3
+Mondim de Basto;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.8;0.9
+Mondim de Basto;Aparelho Respiratório;Caldas das Murtas;Termas de Pedras Salgadas;0.5;0.8
+Mondim de Basto;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.9;1.3
+Mondim de Basto;Doenças Ginecológicas;Termas de Caldelas;---;1.3;---
+Mondim de Basto;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.8;1.3
+Mondim de Basto;Pele;Caldas de Vizela;Termas de Vidago;0.8;0.9
+Mondim de Basto;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Termas de Pedras Salgadas;0.5;0.8
+Montalegre;Aparelho Circulatório;Termas de Carvalhelhos;Termas do Gerês  ;0.5;1.4
+Montalegre;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;0.7;0.8
+Montalegre;Aparelho Respiratório;Termas de Chaves;Termas de Vidago;0.7;0.8
+Montalegre;Doenças do Sistema Nervoso;Termas de Vidago;---;0.8;---
+Montalegre;Doenças Ginecológicas;---;---;---;---
+Montalegre;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas do Gerês  ;0.9;1.4
+Montalegre;Pele;Termas de Carvalhelhos;Termas de Vidago;0.5;0.8
+Montalegre;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas de Vidago;0.7;0.8
+Murça;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;1.2;1.7
+Murça;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.8;0.8
+Murça;Aparelho Respiratório;Caldas de Carlão;Termas de Pedras Salgadas;0.5;0.8
+Murça;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.8;1.7
+Murça;Doenças Ginecológicas;Termas de Caldelas;---;1.7;---
+Murça;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.8;1.7
+Murça;Pele;Caldas de Carlão;Termas de Vidago;0.5;0.8
+Murça;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas de Pedras Salgadas;0.5;0.8
+O Baixo Miño;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1.1;1.6
+O Baixo Miño;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;1.1;1.6
+O Baixo Miño;Aparelho Respiratório;Termas de Monção;Caldas das Taipas;0.4;1
+O Baixo Miño;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.1;1.7
+O Baixo Miño;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+O Baixo Miño;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;1.1;1.6
+O Baixo Miño;Pele;Termas de Caldelas;Caldas das Taipas;1.1;1
+O Baixo Miño;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas de Caldelas;0.4;1.1
+O Condado;Aparelho Circulatório;Termas de Caldelas;---;1.3;---
+O Condado;Aparelho Digestivo;Termas de Caldelas;Termas de Chaves;1.3;1.7
+O Condado;Aparelho Respiratório;Termas de Monção;Caldas das Taipas;0.8;1.3
+O Condado;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.3;---
+O Condado;Doenças Ginecológicas;Termas de Caldelas;---;1.3;---
+O Condado;Metabólico-endócrinas;Termas de Caldelas;---;1.3;---
+O Condado;Pele;Termas de Caldelas;Caldas das Taipas;1.3;1.3
+O Condado;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas de Caldelas;0.8;1.3
+Oliveira de Azeméis;Aparelho Circulatório;Termas de Caldelas;---;1.4;---
+Oliveira de Azeméis;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.4;1.7
+Oliveira de Azeméis;Aparelho Respiratório;Termas de São Jorge;Termas da Torre;0.3;0.8
+Oliveira de Azeméis;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.4;1.7
+Oliveira de Azeméis;Doenças Ginecológicas;Termas de Caldelas;---;1.4;---
+Oliveira de Azeméis;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.4;1.6
+Oliveira de Azeméis;Pele;Termas de São Jorge;Caldas da Saúde;0.3;0.9
+Oliveira de Azeméis;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas da Torre;0.3;0.8
+Oliveira de Frades;Aparelho Circulatório;---;---;---;---
+Oliveira de Frades;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.6;1.7
+Oliveira de Frades;Aparelho Respiratório;Termas de São Jorge;Termas da Torre;1;1.4
+Oliveira de Frades;Doenças do Sistema Nervoso;Termas de Vidago;---;1.7;---
+Oliveira de Frades;Doenças Ginecológicas;---;---;---;---
+Oliveira de Frades;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.6;---
+Oliveira de Frades;Pele;Termas de São Jorge;Caldas da Saúde;1;1.4
+Oliveira de Frades;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas da Torre;1;1.4
+Ovar;Aparelho Circulatório;Termas de Caldelas;---;1.4;---
+Ovar;Aparelho Digestivo;Termas de Caldelas;---;1.4;---
+Ovar;Aparelho Respiratório;Termas de São Jorge;Caldas da Saúde;0.4;1
+Ovar;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.4;---
+Ovar;Doenças Ginecológicas;Termas de Caldelas;---;1.4;---
+Ovar;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.4;1.7
+Ovar;Pele;Termas de São Jorge;Caldas da Saúde;0.4;1
+Ovar;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Caldas da Saúde;0.4;1
+Paços de Ferreira;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1;1.5
+Paços de Ferreira;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1;1.1
+Paços de Ferreira;Aparelho Respiratório;Caldas de Vizela;Caldas da Saúde;0.5;0.5
+Paços de Ferreira;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1;1.2
+Paços de Ferreira;Doenças Ginecológicas;Termas de Caldelas;---;1;---
+Paços de Ferreira;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1;1.1
+Paços de Ferreira;Pele;Caldas de Vizela;Caldas da Saúde;0.5;0.5
+Paços de Ferreira;Reumatológicas e Musculo-esqueléticas;Caldas de Vizela;Caldas da Saúde;0.5;0.5
+Paredes  ;Aparelho Circulatório;Termas de Caldelas;Termas de Carvalhelhos;1.1;1.5
+Paredes  ;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1;1.1
+Paredes  ;Aparelho Respiratório;Termas de São Vicente;Termas da Torre;0.3;0.4
+Paredes  ;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1;1.2
+Paredes  ;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+Paredes  ;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.1;1.1
+Paredes  ;Pele;Caldas de Vizela;Termas de São Jorge;0.5;0.6
+Paredes  ;Reumatológicas e Musculo-esqueléticas;Termas de São Vicente;Termas da Torre;0.3;0.4
+Paredes de Coura;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;1.1;1.7
+Paredes de Coura;Aparelho Digestivo;Termas de Caldelas  ;Termas do Gerês  ;1.1;1.7
+Paredes de Coura;Aparelho Respiratório;Termas de Monção;Caldas das Taipas;0.7;1.1
+Paredes de Coura;Doenças do Sistema Nervoso;Termas de Caldelas  ;---;1.1;---
+Paredes de Coura;Doenças Ginecológicas;Termas de Caldelas  ;---;1.1;---
+Paredes de Coura;Metabólico-endócrinas;Termas de Caldelas  ;Termas do Gerês  ;1.1;1.7
+Paredes de Coura;Pele;Termas de Caldelas  ;Caldas das Taipas;1.1;1.1
+Paredes de Coura;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas de Caldelas  ;0.7;1.1
+Penafiel;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1;1.5
+Penafiel;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1;1.1
+Penafiel;Aparelho Respiratório;Termas de São Vicente;Termas da Torre;0.3;0.4
+Penafiel;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1;1.1
+Penafiel;Doenças Ginecológicas;Termas de Caldelas;---;1;---
+Penafiel;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1;1.1
+Penafiel;Pele;Caldas de Vizela;Termas de São Jorge;0.5;0.6
+Penafiel;Reumatológicas e Musculo-esqueléticas;Termas de São Vicente;Termas da Torre;0.3;0.4
+Penedono;Aparelho Circulatório;---;---;---;---
+Penedono;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.7;1.7
+Penedono;Aparelho Respiratório;Caldas de Carlão;Caldas das Murtas;1.2;1.7
+Penedono;Doenças do Sistema Nervoso;Termas de Vidago;---;1.7;---
+Penedono;Doenças Ginecológicas;---;---;---;---
+Penedono;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.7;---
+Penedono;Pele;Caldas de Carlão;Termas de Vidago;1.2;1.7
+Penedono;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Caldas das Murtas;1.2;1.7
+Peso da Régua;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;1.2;1.6
+Peso da Régua;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.6;0.7
+Peso da Régua;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.7;0.7
+Peso da Régua;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.7;1.6
+Peso da Régua;Doenças Ginecológicas;Termas de Caldelas;---;1.6;---
+Peso da Régua;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.7;1.6
+Peso da Régua;Pele;Termas de Vidago;Caldas de Carlão;0.7;0.7
+Peso da Régua;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.7;0.7
+Pinhel;Aparelho Circulatório;---;---;---;---
+Pinhel;Aparelho Digestivo;---;---;---;---
+Pinhel;Aparelho Respiratório;Caldas de Carlão;---;1.7;---
+Pinhel;Doenças do Sistema Nervoso;---;---;---;---
+Pinhel;Doenças Ginecológicas;---;---;---;---
+Pinhel;Metabólico-endócrinas;---;---;---;---
+Pinhel;Pele;Caldas de Carlão;---;1.7;---
+Pinhel;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;---;1.7;---
+Ponte da Barca;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;0.5;1.3
+Ponte da Barca;Aparelho Digestivo;Termas de Caldelas  ;Termas do Gerês  ;0.5;1.4
+Ponte da Barca;Aparelho Respiratório;Termas da Moimenta;Termas de Monção;0.6;0.8
+Ponte da Barca;Doenças do Sistema Nervoso;Termas de Caldelas  ;Termas de Vidago;0.5;1.6
+Ponte da Barca;Doenças Ginecológicas;Termas de Caldelas  ;---;0.5;---
+Ponte da Barca;Metabólico-endócrinas;Termas de Caldelas  ;Termas do Gerês  ;0.5;1.3
+Ponte da Barca;Pele;Termas de Caldelas  ;Caldas das Taipas;0.5;0.9
+Ponte da Barca;Reumatológicas e Musculo-esqueléticas;Termas de Caldelas  ;Termas da Moimenta;0.5;0.6
+Ponte de Lima;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;0.7;1.3
+Ponte de Lima;Aparelho Digestivo;Termas de Caldelas  ;Termas do Gerês  ;0.7;1.3
+Ponte de Lima;Aparelho Respiratório;Caldas das Taipas;Termas da Moimenta;0.7;0.8
+Ponte de Lima;Doenças do Sistema Nervoso;Termas de Caldelas  ;Termas de Vidago;0.7;1.4
+Ponte de Lima;Doenças Ginecológicas;Termas de Caldelas  ;---;0.7;---
+Ponte de Lima;Metabólico-endócrinas;Termas de Caldelas  ;Termas do Gerês  ;0.7;1.3
+Ponte de Lima;Pele;Termas de Caldelas  ;Caldas das Taipas;0.7;0.7
+Ponte de Lima;Reumatológicas e Musculo-esqueléticas;Termas de Caldelas  ;Caldas das Taipas;0.7;0.7
+Porto;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;1.1;1.6
+Porto;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.1;1.4
+Porto;Aparelho Respiratório;Caldas da Saúde;Termas de São Jorge;0.5;0.5
+Porto;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.1;1.4
+Porto;Doenças Ginecológicas;Termas de Caldelas  ;---;1.1;---
+Porto;Metabólico-endócrinas;Termas de Caldelas  ;Termas de Pedras Salgadas;1.1;1.4
+Porto;Pele;Caldas da Saúde;Termas de São Jorge;0.5;0.5
+Porto;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Termas de São Jorge;0.5;0.5
+Póvoa de Lanhoso;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.5;0.6
+Póvoa de Lanhoso;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;0.5;0.6
+Póvoa de Lanhoso;Aparelho Respiratório;Caldas das Taipas;Caldas de Vizela;0.3;0.6
+Póvoa de Lanhoso;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.5;1.3
+Póvoa de Lanhoso;Doenças Ginecológicas;Termas de Caldelas;---;0.5;---
+Póvoa de Lanhoso;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;0.5;0.6
+Póvoa de Lanhoso;Pele;Caldas das Taipas;Termas de Caldelas;0.3;0.5
+Póvoa de Lanhoso;Reumatológicas e Musculo-esqueléticas;Caldas das Taipas;Termas de Caldelas;0.3;0.5
+Póvoa de Varzim;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.3
+Póvoa de Varzim;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;0.9;1.4
+Póvoa de Varzim;Aparelho Respiratório;Caldas da Saúde;Caldas de Vizela;0.5;0.6
+Póvoa de Varzim;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.9;1.4
+Póvoa de Varzim;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Póvoa de Varzim;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;0.9;1.3
+Póvoa de Varzim;Pele;Caldas da Saúde;Caldas de Vizela;0.5;0.6
+Póvoa de Varzim;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Caldas de Vizela;0.5;0.6
+Resende;Aparelho Circulatório;Termas de Caldelas;---;1.7;---
+Resende;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.3;1.3
+Resende;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.1;0.7
+Resende;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;1.3;1.7
+Resende;Doenças Ginecológicas;Termas de Caldelas;---;1.7;---
+Resende;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;1.3;1.7
+Resende;Pele;Caldas de Vizela;Caldas das Taipas;1.1;1.3
+Resende;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.1;0.7
+Ribeira de Pena;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;0.6;1.2
+Ribeira de Pena;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.5;0.5
+Ribeira de Pena;Aparelho Respiratório;Termas de Pedras Salgadas;Termas de Vidago;0.5;0.5
+Ribeira de Pena;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.5;1.2
+Ribeira de Pena;Doenças Ginecológicas;Termas de Caldelas;---;1.2;---
+Ribeira de Pena;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.5;1.2
+Ribeira de Pena;Pele;Termas de Vidago;Termas de Carvalhelhos;0.5;0.6
+Ribeira de Pena;Reumatológicas e Musculo-esqueléticas;Termas de Pedras Salgadas;Termas de Vidago;0.5;0.5
+Sabrosa;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;1.2;1.6
+Sabrosa;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.7;0.7
+Sabrosa;Aparelho Respiratório;Caldas das Murtas;Caldas de Carlão;0.7;0.7
+Sabrosa;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.7;1.6
+Sabrosa;Doenças Ginecológicas;Termas de Caldelas;---;1.6;---
+Sabrosa;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.7;1.6
+Sabrosa;Pele;Caldas de Carlão;Termas de Vidago;0.7;0.7
+Sabrosa;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Caldas de Carlão;0.7;0.7
+Sanabria;Aparelho Circulatório;Termas de Carvalhelhos;---;1.5;---
+Sanabria;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;1.1;1.2
+Sanabria;Aparelho Respiratório;Termas de Chaves;Termas de Vidago;1.1;1.2
+Sanabria;Doenças do Sistema Nervoso;Termas de Vidago;---;1.1;---
+Sanabria;Doenças Ginecológicas;---;---;---;---
+Sanabria;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.3;---
+Sanabria;Pele;Termas de Vidago;Termas de Carvalhelhos;1.2;1.5
+Sanabria;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas de Vidago;1.1;1.2
+Santa Maria da Feira;Aparelho Circulatório;Termas de Caldelas  ;---;1.3;---
+Santa Maria da Feira;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.3;1.6
+Santa Maria da Feira;Aparelho Respiratório;Termas de São Jorge;Caldas da Saúde;0.2;0.7
+Santa Maria da Feira;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.3;1.7
+Santa Maria da Feira;Doenças Ginecológicas;Termas de Caldelas  ;---;1.3;---
+Santa Maria da Feira;Metabólico-endócrinas;Termas de Caldelas  ;Termas de Pedras Salgadas;1.3;1.6
+Santa Maria da Feira;Pele;Termas de São Jorge;Caldas da Saúde;0.2;0.7
+Santa Maria da Feira;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Caldas da Saúde;0.2;0.7
+Santa Marta de Penaguião;Aparelho Circulatório;Termas de Carvalhelhos;---;1.3;---
+Santa Marta de Penaguião;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.8;0.8
+Santa Marta de Penaguião;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.8;0.8
+Santa Marta de Penaguião;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.8;1.7
+Santa Marta de Penaguião;Doenças Ginecológicas;---;---;---;---
+Santa Marta de Penaguião;Metabólico-endócrinas;Termas de Pedras Salgadas;---;0.8;---
+Santa Marta de Penaguião;Pele;Termas de Vidago;Caldas de Carlão;0.8;0.9
+Santa Marta de Penaguião;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.8;0.8
+Santo Tirso;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.8;1.3
+Santo Tirso;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.8;1.2
+Santo Tirso;Aparelho Respiratório;Caldas da Saúde;Caldas de Vizela;0.1;0.4
+Santo Tirso;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.8;1.2
+Santo Tirso;Doenças Ginecológicas;Termas de Caldelas;---;0.8;---
+Santo Tirso;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.8;1.2
+Santo Tirso;Pele;Caldas da Saúde;Caldas de Vizela;0.1;0.4
+Santo Tirso;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Caldas de Vizela;0.1;0.4
+São João da Madeira;Aparelho Circulatório;Termas de Caldelas;---;1.4;---
+São João da Madeira;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.4;1.6
+São João da Madeira;Aparelho Respiratório;Termas de São Jorge;Termas da Torre;0.3;0.8
+São João da Madeira;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.4;1.6
+São João da Madeira;Doenças Ginecológicas;Termas de Caldelas;---;1.4;---
+São João da Madeira;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.4;1.6
+São João da Madeira;Pele;Termas de São Jorge;Caldas da Saúde;0.3;0.8
+São João da Madeira;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas da Torre;0.3;0.8
+São João da Pesqueira;Aparelho Circulatório;---;---;---;---
+São João da Pesqueira;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.5;1.5
+São João da Pesqueira;Aparelho Respiratório;Caldas de Carlão;Caldas das Murtas;0.8;1.5
+São João da Pesqueira;Doenças do Sistema Nervoso;Termas de Vidago;---;1.5;---
+São João da Pesqueira;Doenças Ginecológicas;---;---;---;---
+São João da Pesqueira;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.5;---
+São João da Pesqueira;Pele;Caldas de Carlão;Termas de Vidago;0.8;1.6
+São João da Pesqueira;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Caldas das Murtas;0.8;1.5
+São Pedro do Sul;Aparelho Circulatório;---;---;---;---
+São Pedro do Sul;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.4;1.4
+São Pedro do Sul;Aparelho Respiratório;Termas de São Jorge;Caldas de Aregos;1.2;1.2
+São Pedro do Sul;Doenças do Sistema Nervoso;Termas de Vidago;---;1.4;---
+São Pedro do Sul;Doenças Ginecológicas;---;---;---;---
+São Pedro do Sul;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.4;---
+São Pedro do Sul;Pele;Termas de São Jorge;Termas de Vidago;1.2;1.4
+São Pedro do Sul;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Caldas de Aregos;1.2;1.2
+Sátão;Aparelho Circulatório;---;---;---;---
+Sátão;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.5;1.5
+Sátão;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;1.3;1.5
+Sátão;Doenças do Sistema Nervoso;Termas de Vidago;---;1.5;---
+Sátão;Doenças Ginecológicas;---;---;---;---
+Sátão;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.5;---
+Sátão;Pele;Termas de São Jorge;Termas de Vidago;1.5;1.6
+Sátão;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;1.3;1.5
+Sayago;Aparelho Circulatório;---;---;---;---
+Sayago;Aparelho Digestivo;---;---;---;---
+Sayago;Aparelho Respiratório;Termas da Terronha;---;0.8;---
+Sayago;Doenças do Sistema Nervoso;---;---;---;---
+Sayago;Doenças Ginecológicas;---;---;---;---
+Sayago;Metabólico-endócrinas;---;---;---;---
+Sayago;Pele;---;---;;
+Sayago;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;---;0.8;---
+Sernancelhe;Aparelho Circulatório;---;---;---;---
+Sernancelhe;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.6;1.7
+Sernancelhe;Aparelho Respiratório;Caldas de Carlão;Caldas das Murtas;1.4;1.6
+Sernancelhe;Doenças do Sistema Nervoso;Termas de Vidago;---;1.7;---
+Sernancelhe;Doenças Ginecológicas;---;---;---;---
+Sernancelhe;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.6;---
+Sernancelhe;Pele;Caldas de Carlão;Termas de Vidago;1.4;1.7
+Sernancelhe;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Caldas das Murtas;1.4;1.6
+Sever do Vouga;Aparelho Circulatório;---;---;---;---
+Sever do Vouga;Aparelho Digestivo;---;---;---;---
+Sever do Vouga;Aparelho Respiratório;Termas de São Jorge;Termas da Torre;0.7;1.2
+Sever do Vouga;Doenças do Sistema Nervoso;---;---;---;---
+Sever do Vouga;Doenças Ginecológicas;---;---;---;---
+Sever do Vouga;Metabólico-endócrinas;---;---;---;---
+Sever do Vouga;Pele;Termas de São Jorge;Caldas da Saúde;0.7;1.3
+Sever do Vouga;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas da Torre;0.7;1.2
+Tabuaço;Aparelho Circulatório;Termas de Carvalhelhos;---;1.7;---
+Tabuaço;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.2;1.2
+Tabuaço;Aparelho Respiratório;Caldas de Carlão;Caldas de Aregos;1.1;1.3
+Tabuaço;Doenças do Sistema Nervoso;Termas de Vidago;---;1.2;---
+Tabuaço;Doenças Ginecológicas;---;---;---;---
+Tabuaço;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.2;---
+Tabuaço;Pele;Caldas de Carlão;Termas de Vidago;1.1;1.3
+Tabuaço;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Caldas de Aregos;1.1;1.3
+Tarouca;Aparelho Circulatório;Termas de Carvalhelhos;---;1.4;---
+Tarouca;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.9;1
+Tarouca;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;0.9;1
+Tarouca;Doenças do Sistema Nervoso;Termas de Vidago;---;1;---
+Tarouca;Doenças Ginecológicas;---;---;---;---
+Tarouca;Metabólico-endócrinas;Termas de Pedras Salgadas;---;0.9;---
+Tarouca;Pele;Termas de Vidago;Caldas de Carlão;1;1
+Tarouca;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;0.9;1
+Terra de Celanova;Aparelho Circulatório;Termas do Gerês  ;Termas de Caldelas;1.3;1.7
+Terra de Celanova;Aparelho Digestivo;Termas de Chaves;Termas do Gerês  ;1.1;1.3
+Terra de Celanova;Aparelho Respiratório;Termas de Monção;Termas da Moimenta;1.1;1.7
+Terra de Celanova;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;1.2;1.7
+Terra de Celanova;Doenças Ginecológicas;Termas de Caldelas;---;1.7;---
+Terra de Celanova;Metabólico-endócrinas;Termas do Gerês  ;Termas de Pedras Salgadas;1.3;1.3
+Terra de Celanova;Pele;Termas de Vidago;Termas de Carvalhelhos;1.2;1.4
+Terra de Celanova;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas do Gerês  ;1.1;1.3
+Terras de Bouro;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.3;0.6
+Terras de Bouro;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;0.3;0.6
+Terras de Bouro;Aparelho Respiratório;Termas da Moimenta;Caldas das Taipas;0;0.9
+Terras de Bouro;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.3;1.6
+Terras de Bouro;Doenças Ginecológicas;Termas de Caldelas;---;0.3;---
+Terras de Bouro;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;0.3;0.6
+Terras de Bouro;Pele;Caldas das Taipas;Termas de Caldelas;0.8;0.9
+Terras de Bouro;Reumatológicas e Musculo-esqueléticas;Termas da Moimenta;Termas do Gerês  ;0;0.6
+Torre de Moncorvo;Aparelho Circulatório;---;---;---;---
+Torre de Moncorvo;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.5;1.5
+Torre de Moncorvo;Aparelho Respiratório;Caldas de Carlão;Termas da Terronha;0.9;1.4
+Torre de Moncorvo;Doenças do Sistema Nervoso;Termas de Vidago;---;1.5;---
+Torre de Moncorvo;Doenças Ginecológicas;---;---;---;---
+Torre de Moncorvo;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.5;---
+Torre de Moncorvo;Pele;Caldas de Carlão;Termas de Vidago;0.9;1.5
+Torre de Moncorvo;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas da Terronha;0.9;1.4
+Trancoso;Aparelho Circulatório;---;---;---;---
+Trancoso;Aparelho Digestivo;---;---;---;---
+Trancoso;Aparelho Respiratório;Caldas de Carlão;---;1.5;---
+Trancoso;Doenças do Sistema Nervoso;---;---;---;---
+Trancoso;Doenças Ginecológicas;---;---;---;---
+Trancoso;Metabólico-endócrinas;---;---;---;---
+Trancoso;Pele;Caldas de Carlão;---;1.5;---
+Trancoso;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;---;1.5;---
+Trofa;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.4
+Trofa;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.8;1.2
+Trofa;Aparelho Respiratório;Caldas da Saúde;Caldas de Vizela;0.3;0.5
+Trofa;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.8;1.2
+Trofa;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Trofa;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1.2
+Trofa;Pele;Caldas da Saúde;Caldas de Vizela;0.3;0.5
+Trofa;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Caldas de Vizela;0.3;0.5
+Vale de Cambra;Aparelho Circulatório;Termas de Caldelas;---;1.5;---
+Vale de Cambra;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1.5;1.7
+Vale de Cambra;Aparelho Respiratório;Termas de São Jorge;Termas da Torre;0.4;0.9
+Vale de Cambra;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1.5;1.7
+Vale de Cambra;Doenças Ginecológicas;Termas de Caldelas;---;1.5;---
+Vale de Cambra;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.5;1.7
+Vale de Cambra;Pele;Termas de São Jorge;Caldas da Saúde;0.4;0.9
+Vale de Cambra;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Termas da Torre;0.4;0.9
+Valença;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.6
+Valença;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;0.9;1.5
+Valença;Aparelho Respiratório;Termas de Monção;Caldas das Taipas;0.3;0.9
+Valença;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.9;1.7
+Valença;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Valença;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;0.9;1.6
+Valença;Pele;Caldas das Taipas;Caldas da Saúde;0.9;0.9
+Valença;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Caldas das Taipas;0.3;0.9
+Valongo;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1;1.5
+Valongo;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1;1.3
+Valongo;Aparelho Respiratório;Caldas da Saúde;Termas de São Vicente;0.5;0.6
+Valongo;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1;1.4
+Valongo;Doenças Ginecológicas;Termas de Caldelas;---;1;---
+Valongo;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1;1.3
+Valongo;Pele;Caldas da Saúde;Termas de São Jorge;0.5;0.5
+Valongo;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Termas de São Vicente;0.5;0.6
+Valpaços;Aparelho Circulatório;Termas de Carvalhelhos;---;1.1;---
+Valpaços;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;0.5;0.7
+Valpaços;Aparelho Respiratório;Termas de Chaves;Termas de Vidago;0.5;0.7
+Valpaços;Doenças do Sistema Nervoso;Termas de Vidago;---;0.7;---
+Valpaços;Doenças Ginecológicas;---;---;---;---
+Valpaços;Metabólico-endócrinas;Termas de Pedras Salgadas;---;0.8;---
+Valpaços;Pele;Termas de Vidago;Caldas de Carlão;0.7;0.7
+Valpaços;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas de Vidago;0.5;0.7
+Verín;Aparelho Circulatório;Termas de Carvalhelhos;---;0.8;---
+Verín;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;0.5;0.5
+Verín;Aparelho Respiratório;Termas de Chaves;Termas de Vidago;0.5;0.5
+Verín;Doenças do Sistema Nervoso;Termas de Vidago;---;0.5;---
+Verín;Doenças Ginecológicas;---;---;---;---
+Verín;Metabólico-endócrinas;Termas de Pedras Salgadas;---;0.6;---
+Verín;Pele;Termas de Vidago;Termas de Carvalhelhos;0.5;0.8
+Verín;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas de Vidago;0.5;0.5
+Viana;Aparelho Circulatório;Termas de Carvalhelhos;---;1.3;---
+Viana;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;1;1
+Viana;Aparelho Respiratório;Termas de Chaves;Termas de Vidago;1;1
+Viana;Doenças do Sistema Nervoso;Termas de Vidago;---;1;---
+Viana;Doenças Ginecológicas;---;---;---;---
+Viana;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.1;---
+Viana;Pele;Termas de Vidago;Termas de Carvalhelhos;1;1.2
+Viana;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas de Vidago;1;1
+Viana do Castelo;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;1;1.5
+Viana do Castelo;Aparelho Digestivo;Termas de Caldelas  ;Termas do Gerês  ;1;1.5
+Viana do Castelo;Aparelho Respiratório;Caldas da Saúde;Termas de Monção;0.8;1.1
+Viana do Castelo;Doenças do Sistema Nervoso;Termas de Caldelas  ;Termas de Vidago;1;1.7
+Viana do Castelo;Doenças Ginecológicas;Termas de Caldelas  ;---;1;---
+Viana do Castelo;Metabólico-endócrinas;Termas de Caldelas  ;Termas do Gerês  ;1;1.5
+Viana do Castelo;Pele;Caldas da Saúde;Termas de Caldelas  ;0.8;1
+Viana do Castelo;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Termas de Caldelas  ;0.8;1
+Vieira do Minho;Aparelho Circulatório;Termas do Gerês  ;Termas de Caldelas  ;0.4;0.7
+Vieira do Minho;Aparelho Digestivo;Termas do Gerês  ;Termas de Caldelas  ;0.4;0.7
+Vieira do Minho;Aparelho Respiratório;Caldas das Taipas;Termas da Moimenta;0.4;0.9
+Vieira do Minho;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.7;1.3
+Vieira do Minho;Doenças Ginecológicas;Termas de Caldelas  ;---;0.7;---
+Vieira do Minho;Metabólico-endócrinas;Termas do Gerês  ;Termas de Caldelas  ;0.4;0.7
+Vieira do Minho;Pele;Caldas das Taipas;Termas de Caldelas  ;0.6;0.7
+Vieira do Minho;Reumatológicas e Musculo-esqueléticas;Termas do Gerês  ;Caldas das Taipas;0.4;0.6
+Vila do Conde;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.9;1.4
+Vila do Conde;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1.3
+Vila do Conde;Aparelho Respiratório;Caldas da Saúde;Caldas de Vizela;0.5;0.6
+Vila do Conde;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.9;1.3
+Vila do Conde;Doenças Ginecológicas;Termas de Caldelas;---;0.9;---
+Vila do Conde;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.9;1.3
+Vila do Conde;Pele;Caldas da Saúde;Caldas de Vizela;0.5;0.6
+Vila do Conde;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Caldas de Vizela;0.5;0.6
+Vila Flor;Aparelho Circulatório;Termas de Carvalhelhos;---;1.6;---
+Vila Flor;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.1;1.2
+Vila Flor;Aparelho Respiratório;Caldas de Carlão;Termas de Pedras Salgadas;0.4;1.1
+Vila Flor;Doenças do Sistema Nervoso;Termas de Vidago;---;1.2;---
+Vila Flor;Doenças Ginecológicas;---;---;---;---
+Vila Flor;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.1;---
+Vila Flor;Pele;Caldas de Carlão;Termas de Vidago;0.4;1.1
+Vila Flor;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas de Pedras Salgadas;0.4;1.1
+Vila Nova de Cerveira;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1.1;1.7
+Vila Nova de Cerveira;Aparelho Digestivo;Termas de Caldelas;Termas do Gerês  ;1.1;1.7
+Vila Nova de Cerveira;Aparelho Respiratório;Termas de Monção;Caldas das Taipas;0.6;1.1
+Vila Nova de Cerveira;Doenças do Sistema Nervoso;Termas de Caldelas;---;1.1;---
+Vila Nova de Cerveira;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+Vila Nova de Cerveira;Metabólico-endócrinas;Termas de Caldelas;Termas do Gerês  ;1.1;1.7
+Vila Nova de Cerveira;Pele;Termas de Caldelas;Caldas das Taipas;1.1;1.1
+Vila Nova de Cerveira;Reumatológicas e Musculo-esqueléticas;Termas de Monção;Termas de Caldelas;0.6;1.1
+Vila Nova de Famalicão;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.7;1.2
+Vila Nova de Famalicão;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.7;1.1
+Vila Nova de Famalicão;Aparelho Respiratório;Caldas da Saúde;Caldas das Taipas;0.2;0.5
+Vila Nova de Famalicão;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.7;1.2
+Vila Nova de Famalicão;Doenças Ginecológicas;Termas de Caldelas;---;0.7;---
+Vila Nova de Famalicão;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.7;1.1
+Vila Nova de Famalicão;Pele;Caldas da Saúde;Caldas das Taipas;0.2;0.5
+Vila Nova de Famalicão;Reumatológicas e Musculo-esqueléticas;Caldas da Saúde;Caldas das Taipas;0.2;0.5
+Vila Nova de Foz Côa;Aparelho Circulatório;---;---;---;---
+Vila Nova de Foz Côa;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.6;1.6
+Vila Nova de Foz Côa;Aparelho Respiratório;Caldas de Carlão;Termas da Terronha;1.1;1.5
+Vila Nova de Foz Côa;Doenças do Sistema Nervoso;Termas de Vidago;---;1.6;---
+Vila Nova de Foz Côa;Doenças Ginecológicas;---;---;---;---
+Vila Nova de Foz Côa;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.6;---
+Vila Nova de Foz Côa;Pele;Caldas de Carlão;Termas de Vidago;1.1;1.6
+Vila Nova de Foz Côa;Reumatológicas e Musculo-esqueléticas;Caldas de Carlão;Termas da Terronha;1.1;1.5
+Vila Nova de Gaia;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;1.1;1.5
+Vila Nova de Gaia;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;1;1.4
+Vila Nova de Gaia;Aparelho Respiratório;Termas de São Jorge;Caldas da Saúde;0.4;0.6
+Vila Nova de Gaia;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;1;1.4
+Vila Nova de Gaia;Doenças Ginecológicas;Termas de Caldelas;---;1.1;---
+Vila Nova de Gaia;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;1.1;1.4
+Vila Nova de Gaia;Pele;Termas de São Jorge;Caldas da Saúde;0.4;0.6
+Vila Nova de Gaia;Reumatológicas e Musculo-esqueléticas;Termas de São Jorge;Caldas da Saúde;0.4;0.6
+Vila Nova de Paiva;Aparelho Circulatório;---;---;---;---
+Vila Nova de Paiva;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;1.3;1.4
+Vila Nova de Paiva;Aparelho Respiratório;Caldas de Aregos;Caldas das Murtas;1.1;1.3
+Vila Nova de Paiva;Doenças do Sistema Nervoso;Termas de Vidago;---;1.4;---
+Vila Nova de Paiva;Doenças Ginecológicas;---;---;---;---
+Vila Nova de Paiva;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.3;---
+Vila Nova de Paiva;Pele;Termas de Vidago;Caldas de Carlão;1.4;1.4
+Vila Nova de Paiva;Reumatológicas e Musculo-esqueléticas;Caldas de Aregos;Caldas das Murtas;1.1;1.3
+Vila Pouca de Aguiar;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;0.8;1.3
+Vila Pouca de Aguiar;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.2;0.4
+Vila Pouca de Aguiar;Aparelho Respiratório;Termas de Pedras Salgadas;Termas de Vidago;0.2;0.4
+Vila Pouca de Aguiar;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.4;1.3
+Vila Pouca de Aguiar;Doenças Ginecológicas;Termas de Caldelas;---;1.3;---
+Vila Pouca de Aguiar;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.2;1.3
+Vila Pouca de Aguiar;Pele;Termas de Vidago;Termas de Carvalhelhos;0.4;0.8
+Vila Pouca de Aguiar;Reumatológicas e Musculo-esqueléticas;Termas de Pedras Salgadas;Termas de Vidago;0.2;0.4
+Vila Real;Aparelho Circulatório;Termas de Carvalhelhos;Termas de Caldelas;1;1.5
+Vila Real;Aparelho Digestivo;Termas de Pedras Salgadas;Termas de Vidago;0.5;0.6
+Vila Real;Aparelho Respiratório;Caldas das Murtas;Caldas de Carlão;0.5;0.6
+Vila Real;Doenças do Sistema Nervoso;Termas de Vidago;Termas de Caldelas  ;0.6;1.5
+Vila Real;Doenças Ginecológicas;Termas de Caldelas;---;1.5;---
+Vila Real;Metabólico-endócrinas;Termas de Pedras Salgadas;Termas de Caldelas;0.5;1.5
+Vila Real;Pele;Termas de Vidago;Caldas de Carlão;0.6;0.6
+Vila Real;Reumatológicas e Musculo-esqueléticas;Caldas das Murtas;Caldas de Carlão;0.5;0.6
+Vila Verde;Aparelho Circulatório;Termas de Caldelas  ;Termas do Gerês  ;0.2;0.9
+Vila Verde;Aparelho Digestivo;Termas de Caldelas  ;Termas do Gerês  ;0.2;0.9
+Vila Verde;Aparelho Respiratório;Termas da Moimenta;Caldas das Taipas;0.3;0.6
+Vila Verde;Doenças do Sistema Nervoso;Termas de Caldelas  ;Termas de Vidago;0.2;1.3
+Vila Verde;Doenças Ginecológicas;Termas de Caldelas  ;---;0.2;---
+Vila Verde;Metabólico-endócrinas;Termas de Caldelas  ;Termas do Gerês  ;0.2;0.9
+Vila Verde;Pele;Termas de Caldelas  ;Caldas das Taipas;0.2;0.5
+Vila Verde;Reumatológicas e Musculo-esqueléticas;Termas de Caldelas  ;Termas da Moimenta;0.2;0.3
+Vimioso;Aparelho Circulatório;---;---;---;---
+Vimioso;Aparelho Digestivo;---;---;---;---
+Vimioso;Aparelho Respiratório;Termas da Terronha;Caldas de Carlão;0.1;1.5
+Vimioso;Doenças do Sistema Nervoso;---;---;---;---
+Vimioso;Doenças Ginecológicas;---;---;---;---
+Vimioso;Metabólico-endócrinas;---;---;---;---
+Vimioso;Pele;Caldas de Carlão;---;1.5;---
+Vimioso;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;Caldas de Carlão;0.1;1.5
+Vinhais;Aparelho Circulatório;Termas de Carvalhelhos;---;1.7;---
+Vinhais;Aparelho Digestivo;Termas de Chaves;Termas de Vidago;1.1;1.4
+Vinhais;Aparelho Respiratório;Termas de Chaves;Termas da Terronha;1.1;1.3
+Vinhais;Doenças do Sistema Nervoso;Termas de Vidago;---;1.4;---
+Vinhais;Doenças Ginecológicas;---;---;---;---
+Vinhais;Metabólico-endócrinas;Termas de Pedras Salgadas;---;1.5;---
+Vinhais;Pele;Caldas de Carlão;Termas de Vidago;1.3;1.4
+Vinhais;Reumatológicas e Musculo-esqueléticas;Termas de Chaves;Termas da Terronha;1.1;1.3
+Vitigudino;Aparelho Circulatório;---;---;---;---
+Vitigudino;Aparelho Digestivo;---;---;---;---
+Vitigudino;Aparelho Respiratório;Termas da Terronha;---;1;---
+Vitigudino;Doenças do Sistema Nervoso;---;---;---;---
+Vitigudino;Doenças Ginecológicas;---;---;---;---
+Vitigudino;Metabólico-endócrinas;---;---;---;---
+Vitigudino;Pele;---;---;---;---
+Vitigudino;Reumatológicas e Musculo-esqueléticas;Termas da Terronha;---;1;---
+Vizela;Aparelho Circulatório;Termas de Caldelas;Termas do Gerês  ;0.8;1.3
+Vizela;Aparelho Digestivo;Termas de Caldelas;Termas de Pedras Salgadas;0.8;1
+Vizela;Aparelho Respiratório;Caldas de Vizela;Caldas da Saúde;0;0.6
+Vizela;Doenças do Sistema Nervoso;Termas de Caldelas;Termas de Vidago;0.8;1
+Vizela;Doenças Ginecológicas;Termas de Caldelas;---;0.8;---
+Vizela;Metabólico-endócrinas;Termas de Caldelas;Termas de Pedras Salgadas;0.8;1
+Vizela;Pele;Caldas de Vizela;Caldas da Saúde;0;0.6
+Vizela;Reumatológicas e Musculo-esqueléticas;Caldas de Vizela;Caldas da Saúde;0;0.6

@@ -1,0 +1,140 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+header {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+.leftheader {
+  flex-basis: 10%;
+  text-align: right;
+  padding-right: 0.5rem;
+}
+.rightheader {
+  flex-basis: 60%;
+  margin-top: 3.75rem;
+}
+.rightheader h1 {
+  margin: 0;
+  font-size: 3em;
+}
+.rightheader p {
+  margin-top: -0.5rem;
+  padding-right: 0.5rem;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f6f6f6;
+}
+section img {
+  margin: 2.5rem;
+}
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+/*For navbars always use the marigin: 0; padding: 0;
+and list-style-type: none;*/
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+nav li {
+  display: inline-block;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+nav a {
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+/*General Link styles for ul with pseudo classes need to be in this order: LVFHA
+a:link {
+  text-align: center;
+}*/
+/*Specific link styles if there is a need for it
+a.specificLink:link {
+  border: 2px solid black;
+}*/
+a.navBarLinkStyle:link {
+  font-weight: bolder;
+  color: #161f26;
+}
+a.navBarLinkStyle:visited {
+  color: #161f26;
+}
+a.navBarLinkStyle:focus {
+  color: #161f26;
+}
+a.navBarLinkStyle:hover { 
+  background-color: #ffdd00;
+}
+section {
+  display: flex;
+  flex-flow: column nowrap;
+}
+article p {
+  padding-left: 2.5rem;
+}
+article img {
+  float: left;
+  margin: 0 1rem 1rem 0;
+  border-radius: 1rem;
+}
+article::after {
+  content: "";
+  display: table;
+  clear: both;
+  padding-left: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+table {
+  border-collapse: separate;
+  width: 50%;
+  align-items: center;
+}
+/* .tablecenter {
+  margin-left: auto; 
+  margin-right: auto;
+} */
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color: #ffdd00;
+}
+footer{
+  padding: 0.2rem;
+  text-align: center;
+  background-color: #ffdd00;
+  background;
+}
+footer ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+footer li {
+  font-size: 13px;
+  display: inline-block;
+
+}
+footer a {
+  text-decoration: none;
+  color: #161f26;
+}
+footer img {
+  border-radius: 50px;
+}

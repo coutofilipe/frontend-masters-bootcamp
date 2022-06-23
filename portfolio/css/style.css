@@ -48,7 +48,7 @@ footer li {
     width: 5rem;
 }
 
-/*Univisited link*/
+/*Univisited link. These events can also be added to other HTML tags lik <p>, etc...*/
 a:link {
     color: #161f26;
 }
