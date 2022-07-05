@@ -1,0 +1,86 @@
+/*Wildcard selector aplies to everything in the do;
+
+box-sizing: border-box tells the browser to account for any border and padding in the values you specify 
+for an element's width and height. If you set an element's width to 100 pixels, 
+that 100 pixels will include any border or padding you added, 
+and the content box will shrink to absorb that extra width.
+This typically makes it much easier to size elements.
+*/
+* {
+    box-sizing: border-box;
+}
+
+.gallery-img {
+    display: none;
+    max-height: 600px;
+}
+
+.active {
+    display: block;
+}
+
+/*  
+These 3 lines arre an easy to center content on the page
+display: flex;
+justify-content: center;
+align-items: center; */
+.image-gallery {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btns{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    background-color: #0074d9;
+    color: white;
+    font-size: 20px;
+    padding: 5px 20px;
+    border-color: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.prev {
+    margin-right: 15px;
+}
+
+.btn:disabled {
+    background-color: #666;
+    cursor: not-allowed;
+}
+
+.swipper-slide {
+    text-align: center;
+}
+
+img {
+    height: 600px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav {
+    background-color: black;
+    color: white;
+    margin: 0;
+    font: Arial;
+    padding: 15px;
+}
+
+.brand {
+    margin: 0;
+    font-size: 50px;
+    cursor: grab;
+    z-index: 10;
+}

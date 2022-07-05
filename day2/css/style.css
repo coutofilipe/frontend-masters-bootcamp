@@ -1,0 +1,60 @@
+/*my fist css*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #C7C7BF;
+    /* background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?cs=srgb&dl=pexels-henry-%26-co-1939485.jpg&fm=jpg");
+    background-color: #cccccc; */
+}
+
+img {
+    border: 10px solid #6DA165;
+}
+
+h1{
+    border: 5px dotted red;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+}
+
+cite {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+    text-decoration: normal;
+    background-color: black;
+}
+
+a:visited {
+    color: green;
+    font-weight: normal;
+}
+
+a.harvard:link {
+    color: maroon;
+}
+
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.padding {
+    padding: auto;
+}
