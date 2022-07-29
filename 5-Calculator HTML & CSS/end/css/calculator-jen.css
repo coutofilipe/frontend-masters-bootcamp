@@ -59,8 +59,7 @@ body {
 }
 .calc-button:last-child:hover {
     background-color: #dfb07e;
-}
-
+}s
 .calc-button:last-child:active {
     background-color: #dd8d37;
 }
